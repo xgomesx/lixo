@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2? family= Lora & family= Roboto+Condensed & display=swap');
+.produto p {
+    padding: 5px 10px;
+}
+
+.header {
+    color: rgb(86, 43, 110);
+    padding: 5px 10px;
+    font-family:
+}
+
+html body {
+    margin: 0;
+    height: 100%;
+    padding: 0;
+}
+
+.imagem {
+    height: 100px;
+    width: 100px;
+}
+
+.produtos {
+    display: inline-flex;
+}
+
+.linha {
+    display: flex;
+}
